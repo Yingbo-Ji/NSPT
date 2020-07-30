@@ -1,0 +1,8 @@
+name = "NSPT"
+uuid = "44e6133e-68a2-495e-a833-cee6d2901b69"
+authors = ["ji "]
+version = "0.1.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
